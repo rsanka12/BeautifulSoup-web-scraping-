@@ -1,0 +1,1 @@
+generates BeautifulSoup webscraping table
